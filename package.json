@@ -1,0 +1,27 @@
+{
+  "name": "ipfs-distributed-record-store",
+  "version": "0.0.0",
+  "description": "Node.js Implementation of the Distributed Record Store",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diasdavid/node-ipfs-record-store.git"
+  },
+  "keywords": [
+    "IPFS"
+  ],
+  "pre-commit": [],
+  "author": "David Dias <daviddias@ipfs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasdavid/node-ipfs-record-store/issues"
+  },
+  "homepage": "https://github.com/diasdavid/node-ipfs-record-store",
+  "devDependencies": {
+    "pre-commit": "^1.1.1",
+    "standard": "^5.1.0"
+  }
+}
