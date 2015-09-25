@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diasdavid/node-ipfs-record-store.git"
+    "url": "https://github.com/diasdavid/node-libp2p-record-store.git"
   },
   "keywords": [
     "IPFS"
@@ -17,17 +17,18 @@
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diasdavid/node-ipfs-record-store/issues"
+    "url": "https://github.com/diasdavid/node-libp2p-record-store/issues"
   },
-  "homepage": "https://github.com/diasdavid/node-ipfs-record-store",
+  "homepage": "https://github.com/diasdavid/node-libp2p-record-store",
   "devDependencies": {
+    "abstract-record-store": "^0.1.1",
     "pre-commit": "^1.1.1",
     "standard": "^5.2.1",
     "tape": "^4.2.0"
   },
   "dependencies": {
-    "ipfs-record": "0.0.1",
     "ipld": "^0.1.3",
+    "libp2p-record": "^0.1.0",
     "merkledag-store": "^0.1.0",
     "multihashing": "^0.1.3"
   }

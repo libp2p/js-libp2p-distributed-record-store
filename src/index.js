@@ -1,4 +1,3 @@
-var MerkleDAGStore = require('merkledag-store')
 var iprs = require('ipfs-record')
 var ipld = require('ipld')
 var multihashing = require('multihashing')
@@ -12,7 +11,7 @@ function DRS (mdagStore) {
     throw new Error('DRS must be called with new')
   }
 
-  self.mdagStore = mdagStore || new MerkleDAGStore()
+  self.mdagStore = mdagStore
   self.mapping = {} // {key: [recordSignatureHash]}
 
   self.get = function (key, callback) {
