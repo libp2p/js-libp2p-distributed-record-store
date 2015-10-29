@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diasdavid/node-libp2p-record-store.git"
+    "url": "https://github.com/diasdavid/js-libp2p-record-store.git"
   },
   "keywords": [
     "IPFS"
@@ -20,9 +20,9 @@
   "author": "David Dias <daviddias@ipfs.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diasdavid/node-libp2p-record-store/issues"
+    "url": "https://github.com/diasdavid/js-libp2p-record-store/issues"
   },
-  "homepage": "https://github.com/diasdavid/node-libp2p-record-store",
+  "homepage": "https://github.com/diasdavid/js-libp2p-record-store",
   "devDependencies": {
     "abstract-record-store": "^0.1.1",
     "pre-commit": "^1.1.1",
