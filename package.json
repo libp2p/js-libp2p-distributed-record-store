@@ -1,6 +1,6 @@
 {
   "name": "ipfs-drs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Node.js Implementation of the Distributed Record Store",
   "main": "src/index.js",
   "scripts": {
