@@ -1,3 +1,5 @@
+'use strict'
+
 var iprs = require('libp2p-record')
 var ipld = require('ipld')
 var multihashing = require('multihashing')
