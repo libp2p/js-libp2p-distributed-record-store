@@ -26,13 +26,13 @@
   "devDependencies": {
     "abstract-record-store": "^0.1.1",
     "pre-commit": "^1.1.1",
-    "standard": "^5.2.1",
+    "standard": "^7.1.2",
     "tape": "^4.2.0"
   },
   "dependencies": {
-    "ipld": "^0.4.0",
+    "ipld": "^0.6.0",
     "libp2p-record": "^0.1.2",
     "merkledag-store": "^0.1.0",
-    "multihashing": "^0.1.3"
+    "multihashing": "^0.2.1"
   }
 }
