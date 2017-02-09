@@ -33,6 +33,6 @@
     "ipld": "^0.6.0",
     "libp2p-record": "^0.1.2",
     "merkledag-store": "^0.1.0",
-    "multihashing": "^0.2.1"
+    "multihashing": "^0.2.3"
   }
 }
